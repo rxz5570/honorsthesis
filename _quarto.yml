@@ -8,6 +8,7 @@ book:
   date-format: iso
   chapters:
     - index.qmd
+    - lit_review.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
