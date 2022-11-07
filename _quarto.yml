@@ -6,6 +6,8 @@ book:
   author: "Rhona Zhang"
   date: today
   date-format: iso
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
     - lit_review.qmd
