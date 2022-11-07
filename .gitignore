@@ -1,9 +1,15 @@
+# standard R info to ignore
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
+# local files to ignore
+*_cache/
+/_book/
+*_files/
 /.quarto/
-.Rdata
 .httr-oauth
+
+# macOS file
 .DS_Store
