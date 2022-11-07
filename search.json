@@ -7,16 +7,30 @@
     "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "lit_review.html",
+    "href": "lit_review.html",
+    "title": "1  Literature Review",
+    "section": "",
+    "text": "literature review for honors thesis….."
+  },
+  {
+    "objectID": "lit_review.html#sec-tbd",
+    "href": "lit_review.html#sec-tbd",
+    "title": "1  Literature Review",
+    "section": "1.1 Title - tbd",
+    "text": "1.1 Title - tbd\nHas 3 Parts? - an introduction or background information section / discussion of sources / conclusion (what limits are there in existing research that led you to want to do this research project)\nAs a part of ORNL’s AI Initiative in the Computational Chemistry and Nanomaterials and Sciences group, Zhang’s research project focuses on developing and training algorithms for 3D atomic-scale periodic structures found in inorganic solids design. The specific algorithms include the generative adversial networks (GAN) and convolutional neural networks. The purpose of this project is to expand upon, integrate, and improve pre-existing algorithms, specifically ZeoGAN and HydraGNN.\nZeoGAN, or zeolite GAN, is a GAN model with the goal of generating crystalline porous nanomaterials and energy shapes using artificial neural networks, while the HydraGNN is a multi-tasking graph convolutional neural network model which predicts global and atomic physical properties given atomic structures. Zhang’s research group is using a high-performance organization procedure to integrate HydraGNN as a function in the ZeoGAN algorithm to generate new atomic structures with low energies.\nPurpose: Zeolite bring many benefits – one of which is carbon dioxide and methane capture. Thus, it can improve our ability to extract, store, transport, and utilize certain chemical compounds for various fields, including mitigating the energy crisis, air pollution, etc.”\nThis is Chapter 1\nThis is Section 1.1\nThis is Section 1.1"
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "2  Introduction",
     "section": "",
     "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "3  Summary",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
   },
