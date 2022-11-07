@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Honors Thesis"
+  author: "Rhona Zhang"
+  date: today
+  date-format: iso
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
