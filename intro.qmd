@@ -17,3 +17,10 @@ ZeoGAN, or zeolite GAN, is a GAN model with the goal of generating crystalline p
 Purpose: Zeolite bring many benefits -- one of which is carbon dioxide and methane capture. Thus, it can improve our ability to extract, store, transport, and utilize certain chemical compounds for various fields, including mitigating the energy crisis, air pollution, etc."
 
 This research is conducted in conjoinment with the AI Initiative in Computational Chemistry and Nanomaterials Sciences Department at the Oak Ridge National Laboratory. (ask Dr. Irle what credits need to be added?)
+
+
+Example Citation
+
+
+This is my first example citation @schriider_bridging_1992
+

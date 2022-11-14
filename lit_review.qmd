@@ -2,15 +2,13 @@
 
 literature review for honors thesis.....
 
-## Title - tbd {#sec-tbd}
-
-Has 3 Parts? - an introduction or background information section / discussion of sources / conclusion (what limits are there in existing research that led you to want to do this research project)
-
-As a part of ORNL's AI Initiative in the Computational Chemistry and Nanomaterials and Sciences group, Zhang's research project focuses on developing and training algorithms for 3D atomic-scale periodic structures found in inorganic solids design. The specific algorithms include the generative adversial networks (GAN) and convolutional neural networks. The purpose of this project is to expand upon, integrate, and improve pre-existing algorithms, specifically ZeoGAN and HydraGNN.
-
-ZeoGAN, or zeolite GAN, is a GAN model with the goal of generating crystalline porous nanomaterials and energy shapes using artificial neural networks, while the HydraGNN is a multi-tasking graph convolutional neural network model which predicts global and atomic physical properties given atomic structures. Zhang's research group is using a high-performance organization procedure to integrate HydraGNN as a function in the ZeoGAN algorithm to generate new atomic structures with low energies.
+## Zeolite and Methane Capture {#sec-zeolite}
 
 Purpose: Zeolite bring many benefits -- one of which is carbon dioxide and methane capture. Thus, it can improve our ability to extract, store, transport, and utilize certain chemical compounds for various fields, including mitigating the energy crisis, air pollution, etc."
+
+## ZeoGAN {#sec=zeogan}
+
+## HydraGNN {#sec-hydragnn}
 
 This is @sec-lit-review
 

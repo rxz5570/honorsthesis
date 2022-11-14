@@ -17,6 +17,8 @@ book:
     - references.qmd
 
 bibliography: references.bib
+# set style for bib
+csl: apa.csl
 
 format:
   html:
