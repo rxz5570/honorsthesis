@@ -2,3 +2,24 @@
 
 ::: {#refs}
 :::
+
+Blanchard, Andrew E., Mayanka Chandra Shekar, Shang Gao, John Gounley, Isaac Lyngaas, Jens Glaser, and Debsindhu Bhowmik. “Automating Genetic Algorithm Mutations for Molecules Using a Masked Language Model.” IEEE Transactions on Evolutionary Computation 26, no. 4 (August 2022): 793–99. https://doi.org/10.1109/TEVC.2022.3144045.
+
+Fuhr, Addis S., and Bobby G. Sumpter. “Deep Generative Models for Materials Discovery and Machine Learning-Accelerated Innovation.” Frontiers in Materials 9 (March 22, 2022): 865270. https://doi.org/10.3389/fmats.2022.865270.
+
+Kim, Baekjun, Sangwon Lee, and Jihan Kim. “Inverse Design of Porous Materials Using Artificial Neural Networks.” Science Advances 6, no. 1 (January 3, 2020): eaax9324. https://doi.org/10.1126/sciadv.aax9324.
+
+Kim, Baekjun, Sangwon Lee, and Jihan Kim. “Supplementary Material - Inverse Design of Porous Materials Using Artificial Neural Networks.” Science Advances 6, no. 1 (January 3, 2020): eaax9324. https://doi.org/10.1126/sciadv.aax9324.
+
+Kim, Sungwon, Juhwan Noh, Geun Ho Gu, Alan Aspuru-Guzik, and Yousung Jung. “Generative Adversarial Networks for Crystal Structure Prediction.” ACS Central Science 6, no. 8 (August 26, 2020): 1412–20. https://doi.org/10.1021/acscentsci.0c00426.
+
+Lee, Sangwon, Baekjun Kim, and Jihan Kim. “Predicting Performance Limits of Methane Gas Storage in Zeolites with an Artificial Neural Network.” Journal of Materials Chemistry A 7, no. 6 (2019): 2709–16. https://doi.org/10.1039/C8TA12208C.
+
+Lee, Sangwon, Baekjun Kim, and Jihan Kim. “Supplementary Information,” n.d., 30.
+
+Lupo Pasini, Massimiliano, Pei Zhang, Samuel Temple Reeve, and Jong Youl Choi. “Multi-Task Graph Neural Networks for Simultaneous Prediction of Global and Atomic Properties in Ferromagnetic Systems *.” Machine Learning: Science and Technology 3, no. 2 (June 1, 2022): 025007. https://doi.org/10.1088/2632-2153/ac6a51.
+
+Schriider, Klaus-Peter, Joachim Sauer, Maurice Leslie, C Richard A Catlow, and John M Thomas. “Bridging Hydroxyl Groups in Zeolitic Catalysts: A Computer Simulation of Their Structure, Vibrational Properties and Acidity in Protonated Faujasites (H-Y Zeolites).” CHEMICAL PHYSICS LETTERS 188, no. 3 (1992): 6.
+
+
+
