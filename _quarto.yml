@@ -11,8 +11,8 @@ book:
   chapters:
     - index.qmd
     - lit_review.qmd
-    - intro.qmd
-    - summary.qmd
+    - methods.qmd
+    - results.qmd
     - references.qmd
 
 bibliography: references.bib
