@@ -16,6 +16,8 @@ book:
     - results.qmd
     - references.qmd
 
+nocite: |
+  @*
 bibliography: references.bib
 # set style for bib
 csl: apa.csl
