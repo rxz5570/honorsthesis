@@ -1,0 +1,19 @@
+# Introduction {#sec-intro}
+
+Global warming and climate change have become immediate concerns that have led to many insolvable problems that we seek to solve through other alternatives as well as new age technology. It is not only important to discover better methods of capturing greenhouse gases, but also critical to uncover and develop new technologies to create better alternatives for the fuel economy.
+
+Of greenhouse gases, methane is of highest priority. Not only is the development of technology and atmospheric removal methods (technical term? or another word?) lacking, but it is the second most abundant greenhouse gas after carbon dioxide. According to the EPA, methane emissions have more than doubled in the last two centuries due to human-related activities and is 25 times more powerful than carbon dioxide at trapping heat ([-@exm-ref11]). Significant reductions would absolutetly be influential on global warming and its potential to be exacerbated.
+
+Though methane capture from the atmosphere is a high priority, it also has the highest potential to solve our current fuel crisis. In comparison to other hydrocarbons, it is more environmentally beneficial because it produces more heat and light energy by mass, while emitting significantly lower carbon dioxide. 
+
+
+
+
+
+The research focuses on developing and training algorithms for 3D atomic-scale periodic structures found in inorganic solids design. The specific algorithms include the generative adversial networks (GAN) and convolutional neural networks. The purpose of this project is to expand upon, integrate, and improve pre-existing algorithms, specifically ZeoGAN and HydraGNN.
+
+ZeoGAN, or zeolite GAN, is a GAN model with the goal of generating crystalline porous nanomaterials and energy shapes using artificial neural networks, while the HydraGNN is a multi-tasking graph convolutional neural network model which predicts global and atomic physical properties given atomic structures. Zhang's research group is using a high-performance organization procedure to integrate HydraGNN as a function in the ZeoGAN algorithm to generate new atomic structures with low energies.
+
+Purpose: Zeolite bring many benefits -- one of which is carbon dioxide and methane capture. Thus, it can improve our ability to extract, store, transport, and utilize certain chemical compounds for various fields, including mitigating the energy crisis, air pollution, etc."
+
+This research is conducted in conjoinment with the AI Initiative in Computational Chemistry and Nanomaterials Sciences Department at the Oak Ridge National Laboratory. (ask Dr. Irle what credits need to be added?)

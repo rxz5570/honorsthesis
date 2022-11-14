@@ -10,6 +10,7 @@ book:
   sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
+    - intro.qmd
     - lit_review.qmd
     - methods.qmd
     - results.qmd

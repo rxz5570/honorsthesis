@@ -1,9 +1,8 @@
 # References {.unnumbered}
 
-::: {#refs}
+::: {#exm-ref1}
+Blanchard, Andrew E., Mayanka Chandra Shekar, Shang Gao, John Gounley, Isaac Lyngaas, Jens Glaser, and Debsindhu Bhowmik. “Automating Genetic Algorithm Mutations for Molecules Using a Masked Language Model.” IEEE Transactions on Evolutionary Computation 26, no. 4 (August 2022): 793–99. https://doi.org/10.1109/TEVC.2022.3144045. 
 :::
-
-Blanchard, Andrew E., Mayanka Chandra Shekar, Shang Gao, John Gounley, Isaac Lyngaas, Jens Glaser, and Debsindhu Bhowmik. “Automating Genetic Algorithm Mutations for Molecules Using a Masked Language Model.” IEEE Transactions on Evolutionary Computation 26, no. 4 (August 2022): 793–99. https://doi.org/10.1109/TEVC.2022.3144045.
 
 Fuhr, Addis S., and Bobby G. Sumpter. “Deep Generative Models for Materials Discovery and Machine Learning-Accelerated Innovation.” Frontiers in Materials 9 (March 22, 2022): 865270. https://doi.org/10.3389/fmats.2022.865270.
 
@@ -21,5 +20,10 @@ Lupo Pasini, Massimiliano, Pei Zhang, Samuel Temple Reeve, and Jong Youl Choi. �
 
 Schriider, Klaus-Peter, Joachim Sauer, Maurice Leslie, C Richard A Catlow, and John M Thomas. “Bridging Hydroxyl Groups in Zeolitic Catalysts: A Computer Simulation of Their Structure, Vibrational Properties and Acidity in Protonated Faujasites (H-Y Zeolites).” CHEMICAL PHYSICS LETTERS 188, no. 3 (1992): 6.
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiy5Ln7oK37AhV7k2oFHesiARAQFnoECBEQAw&url=https%3A%2F%2Fwww.epa.gov%2Fgmi%2Fimportance-methane&usg=AOvVaw1N7J-IQ_YtQn54wRTT41sC
+
+::: {#exm-ref11}
+https://www.epa.gov/gmi/importance-methane
+:::
 
 

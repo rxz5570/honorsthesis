@@ -1,9 +1,30 @@
 # Abstract {.unnumbered}
 
-This is a Quarto book.
+The deve
+research project focuses on developing
+and training algorithms, speci cally generative adversarial networks (GAN)
+and convolutional neural networks, for 3D atomic-scale periodic structures
+found in inorganic solids design. The purpose of the project is to expand
+upon, integrate, and improve pre-existing algorithms, speci cally ZeoGAN
+and HydraGNN. ZeoGAN, or zeolite GAN, is a GAN model with the goal of
+generating crystalline porous nanomaterials and energy shapes using arti cial
+neural networks, while the HydraGNN is a multi-tasking graph convolutional
+neural network which predicts global and atomic physical properties given
+atomic structures. My research group is using a high performance organiza-
+tion (HPO) procedure to integrate HydraGNN as a function in the ZeoGAN
+algorithm to generate new atomic structures with low energies.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+The general idea of this iterative process is to train ZeoGAN to produce crys-
+talline porous structures with low energies from the energy values obtained
+from HydraGNN. The input con guration for HydraGNN is in Cartesian
+coordinates format, while the output of ZeoGAN is the crystal lattice infor-
+mation of a materials' grid, speci cally the probabilities an atom exists at
+every coordinate in the unit cell. Thus, in order to integrate the HydraGNN
+as a function within ZeoGAN and form this iterative process, the output of ZeoGAN must be converted into this Cartesian format. My primary assign-
+ment was to develop an algorithm which can be implemented in ZeoGAN to
+accurately do this conversion and will be used to train HydraGNN. I am also
+working on creating visualizations of the 3D molecular structures to con rm
+and assess the accuracy of the material grids of the structures generated from
+ZeoGAN, which is di cult to do with only the given data.
 
-```{r}
-1 + 1
-```
+Expanding and combining the efforts of two recently developed algorithms 
