@@ -1,26 +1,13 @@
 # Introduction {#sec-intro}
 
-Global warming and climate change have become immediate concerns that have led to many insolvable problems that we seek to solve through other alternatives as well as new age technology. It is not only important to discover better methods of capturing greenhouse gases, but also critical to uncover and develop new technologies to create better alternatives for the fuel economy.
+The most pressing issue facing the global community is climate change and global warming, which has instigated the re-examination and discussion of concerns regarding current energy and fuel resources. Cutting-edge technology and machine learning have enabled new discoveries and improvements on existing solutions to this imminent crisis, such as new and innovative methods of capturing greenhouse cases.
 
-Of greenhouse gases, methane is of highest priority. Not only is the development of technology and atmospheric removal methods (technical term? or another word?) lacking, but it is the second most abundant greenhouse gas after carbon dioxide. According to the EPA, methane emissions have more than doubled in the last two centuries due to human-related activities and is 25 times more powerful than carbon dioxide at trapping heat ([-@exm-ref11]). Significant reductions would absolutetly be influential on global warming and its potential to be exacerbated.
+Recent research points to prioritizing the capture, storage, and use of methane emissions as a potential solution to the fuel crisis. The removal of methane can lead to significant improvements in overall air quality and decreases in global warming since it is the second most abundant greenhouse gas and extremely potent in trapping heat [@jordan_removing_2021]. The combined risk factor associated with methane's high flammability and lack of existing research on methane capture and energy efficient conversions to fuel makes it challenging to safely work with. However, it offers promising potential to be a source of energy that surpasses other fossil fuels as a solution to the fuel crisis. Furthermore, significant removal of methane can lead to drastic decreases in overall global temperatures and the issue of global warming since methane is the direct contributor to an increase in the tropospheric ozone layer [@jordan_removing_2021].
 
-Though methane capture from the atmosphere is a high priority, it also has the highest potential to solve our current fuel crisis. In comparison to other hydrocarbons, it is more environmentally beneficial because it produces more heat and light energy by mass, while emitting significantly lower carbon dioxide. 
+Zeolites, a class of crystalline, microporous inorganic solid consisting of silicon and oxygen atoms, offer a safe and reliable solution to storing and transporting methane and other volatile gases, such as carbon dioxide, without further emitting pollutants. This research focuses on combining and improving existing algorithms for inorganic solids design of 3D atomic-scale periodic structures of zeolites. The merge of the generative adversarial network, ZeoGAN, and a multi-tasking graph convolutional neural network model, HydraGNN.
 
-
-
-
-
-The research focuses on developing and training algorithms for 3D atomic-scale periodic structures found in inorganic solids design. The specific algorithms include the generative adversial networks (GAN) and convolutional neural networks. The purpose of this project is to expand upon, integrate, and improve pre-existing algorithms, specifically ZeoGAN and HydraGNN.
-
-ZeoGAN, or zeolite GAN, is a GAN model with the goal of generating crystalline porous nanomaterials and energy shapes using artificial neural networks, while the HydraGNN is a multi-tasking graph convolutional neural network model which predicts global and atomic physical properties given atomic structures. Zhang's research group is using a high-performance organization procedure to integrate HydraGNN as a function in the ZeoGAN algorithm to generate new atomic structures with low energies.
-
-Purpose: Zeolite bring many benefits -- one of which is carbon dioxide and methane capture. Thus, it can improve our ability to extract, store, transport, and utilize certain chemical compounds for various fields, including mitigating the energy crisis, air pollution, etc."
-
-This research is conducted in conjoinment with the AI Initiative in Computational Chemistry and Nanomaterials Sciences Department at the Oak Ridge National Laboratory. (ask Dr. Irle what credits need to be added?)
+ZeoGAN, or zeolite GAN, is an existing basic GAN model with the goal of generating crystalline porous nanomaterials and energy shapes using artificial neural networks, while HydraGNN predicts global and atomic physical properties given atomic structures. Using a high-performance organization procedure, The integration of HydraGNN as a function within the ZeoGAN algorithm allows for the generation of new atomic structures with low energies or any optimization of user-desired properties.
 
 
-Example Citation
 
-
-This is my first example citation @schriider_bridging_1992
-
+This research is conducted in conjointment with the AI Initiative in the Department of Computational Chemistry and Nanomaterials Sciences at Oak Ridge National Laboratory. (ask Dr. Irle what credits need to be added?)

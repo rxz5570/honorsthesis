@@ -1,17 +1,25 @@
 # Literature Review {#sec-lit-review}
 
-literature review for honors thesis.....
+Global warming and climate change have become immediate concerns that have led to many insolvable problems that we seek to solve through other alternatives as well as new age technology. It is not only important to discover better methods of capturing greenhouse gases, but also critical to uncover and develop new technologies to create better alternatives for the fuel economy.
 
-## Zeolite and Methane Capture {#sec-zeolite}
+## Methane {#sec-methane}
 
-Purpose: Zeolite bring many benefits -- one of which is carbon dioxide and methane capture. Thus, it can improve our ability to extract, store, transport, and utilize certain chemical compounds for various fields, including mitigating the energy crisis, air pollution, etc."
+Methane is one of the most prioritized greenhouse gases. It is the second most abundant greenhouse gas after carbon dioxide. Concentrations of methane emissions have grown more than twice as fast as carbon dioxide due to human-related activities since the Industrial Revolution and is 81 times more potent at trapping heat in its first 20 years of release [@jordan_removing_2021]. Primary causes are from agriculture, waste disposal, and fossil fuel extraction. However, there are also natural sources of methane that account for 40% of global methane emissions. Focusing efforts on significant reducing methane emissions would absolutely be influential on global warming and its potential to be exacerbated. Removal of methane will be beneficial to improvements in air quality as well since the oxidation of methane is the primary contributor to the formation of the ozone layer in the troposphere [@jordan_removing_2021]. 
 
-## ZeoGAN {#sec=zeogan}
+Methane also has the highest potential to solve our current fuel crisis. In comparison to other hydrocarbons, it is more environmentally beneficial because it produces more heat and light energy by mass, while emitting significantly lower than carbon dioxide. 
+
+The recent discovery of methane clathrates, or more colloquially known as "fire ice", are sources of high energy-intensive fuel found as an ice crystal [@yoon_benets_2017]. Methane clathrates are formed through a combination of low temperatures and high pressure and contain locked reserves of natural methane gas. One cubic meter of the compound releases about 160 cubic meters of gas [@lee_methane_2001]. These enormous deposits of methane can be found distributed throughout permafrost regions and soil microbes in wetlands with more energy stored in methane hydrates compared to the world's oil, coal, and gas combined [@yoon_benets_2017]. Recent efforts to convert this methane gas to energy has proven to be fruitful. Thus, despite environmental and global warming concerns, plans have been made to make methane a leading source of alternative energy in the future to other fossil fuel sources [@yoon_benets_2017].
+
+[another potential way it is a fuel solution (?) -- conversion to syngas]
+
+There has also been a lack of development of technology for methane removal due to challenges related to its concentration and dilution is extremely low [@lackner_practical_2020]. A known way to use methane is to convert it to methanol, a liquid form of fuel that burns more cleanly with fewer emissions. However, this conversion process requirees significant heat and pressure, which generates a significant amount of carbon dioxide emissions. In addition, storage, transportation, and utilization of methane presents its own set of problems. Methane is highly flammable and has a high risk of combustion - making it a difficult greenhouse gas to safely manipulate [@yoon_benets_2017]. Improper handling of methane poses danger of exacerbating current global warming issues. The current trajectory of global warming is melting permafrost regions with methane hydrates, which could result in the release of trillions of cubic meters of methane into the atmosphere [@yoon_benets_2017]. This risk and the current lack of existing research and resources to capture methane in a reliable and energy efficient manner makes it difficult and dangerous to handle. 
+
+New technology and research has discovered a class of crystalline, porous material capable of safely and stably soaking up, captuing, and storing methane gas called zeolites [@jordan_removing_2021]. Zeolites hold the promise of a solution to many of the environmental issues facing our world, including but not limited to methane and carbon dioxide capture and storage. 
+
+## Zeolite {#sec-zeolite}
+
+
+## ZeoGAN {#sec-zeogan}
 
 ## HydraGNN {#sec-hydragnn}
 
-This is @sec-lit-review
-
-This is @sec-tbd
-
-This is [Reference -@exm-ref1]
