@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN - 1&nbsp; Introduction</title>
+<title>Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN - 5&nbsp; Next Steps</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -49,8 +49,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./lit_review.html" rel="next">
-<link href="./index.html" rel="prev">
+<link href="./references.html" rel="next">
+<link href="./results.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -90,7 +90,7 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Next Steps</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -158,7 +158,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./intro.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></a>
+  <a href="./intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -178,7 +178,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./nxt_steps.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Next Steps</span></a>
+  <a href="./nxt_steps.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Next Steps</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -191,14 +191,20 @@ div.csl-indent {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#sec-hydragnn" id="toc-sec-hydragnn" class="nav-link active" data-scroll-target="#sec-hydragnn"><span class="toc-section-number">5.1</span>  HydraGNN</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="sec-intro" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></h1>
+<h1 class="title"><span id="sec-nxt_steps" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Next Steps</span></span></h1>
 </div>
 
 
@@ -213,13 +219,9 @@ div.csl-indent {
 
 </header>
 
-<p>One of the most pressing issue facing the current global community is climate change and global warming, which has instigated discussion of concerns regarding current energy and fuel resources and research into solutions to the environmental crisis. Cutting-edge technology have enabled new discoveries and improvements on existing solutions to alleviate current environmental challenges. Progress in the Nanomaterials Science and new advancements in Machine Learning have expedited developments and improvements in innovative methods of capturing greenhouse cases.</p>
-<p>Recent research points to prioritizing the capture, storage, and use of methane emissions as a potential solution to the fuel crisis. The removal of methane can lead to significant improvements in overall air quality and decreases in global warming since it is the second most abundant greenhouse gas and extremely potent in trapping heat <span class="citation" data-cites="jordan_removing_2021">(<a href="references.html#ref-jordan_removing_2021" role="doc-biblioref">Jordan, 2021</a>)</span>.</p>
-<p>The combined risk factor associated with methane’s high flammability and lack of existing research on methane capture and energy efficient conversions to fuel makes it challenging to safely work with. However, it offers promising potential to be a source of energy that surpasses other fossil fuels as a solution to the fuel crisis. Furthermore, significant removal of methane can lead to drastic decreases in overall global temperatures and the issue of global warming since methane is the direct contributor to an increase in the ozone layer <span class="citation" data-cites="jordan_removing_2021">(<a href="references.html#ref-jordan_removing_2021" role="doc-biblioref">Jordan, 2021</a>)</span>.</p>
-<p>Zeolites, a class of crystalline, microporous inorganic solid consisting of silicon and oxygen atoms, offer a safe and reliable solution to storing and transporting methane and other volatile gases, such as carbon dioxide, without further emitting pollutants. They offer distinct advantages over other catalysts such as (1) being an inexpensive material, (2) relatively low energy and temperature required to capture gas, and (3) low risk and simple methadology. This study will use 234 zeolites from International Zeolites Association (IZA) experimental structures and 331,163 from Predicted Crystallography Open Database (PCOD) hypothetical zeolites <span class="citation" data-cites="kim_inverse_2020">(<a href="references.html#ref-kim_inverse_2020" role="doc-biblioref">B. Kim et al., 2020a</a>)</span>.</p>
-<p>The research focuses on improving an existing algorithm for inorganic solids design of three dimensional material grids of atomic-scale structures of zeolites, ZeoGAN. ZeoGAN, or zeolite GAN, is an already existing generative adversarial network (GAN) model with the goal of generating new potential zeolites and energy shapes using artificial neural networks. The present research aims to improve this basic GAN model to allow users to develop zeolites with specific physical properties, such as zeolites with low energies, which means higher binding potentials to improve stable capture of methane particles.</p>
-<p>This can be accomplished by integrating HydraGNN as a function in ZeoGAN. HydraGNN is a pre-existing multi-tasking graph convolutional neural network model that predicts global and atomic physical properties given atomic structures. However, one primary barrier preventing an easy integration process is that HydraGNN requires input data to be in Cartesian format, but the output of ZeoGAN is the energy shapes of a materials’ grid.</p>
-<p>Thus, the algorithm developed will be incorporated into the generative adversarial network, ZeoGAN, as a function for converting the crystal lattice data of the material grids into Cartesian coordinates for training of HydraGNN. Since the output of ZeoGAN is difficult to visualize, the algorithm also provides the data required to plot the 3D molecular structures to assess and confirms the accuracy of the material grids of the zeolite structures generated from ZeoGAN.</p>
+<p>[add later]</p>
+<section id="sec-hydragnn" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="sec-hydragnn"><span class="header-section-number">5.1</span> HydraGNN</h2>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography" style="display: none">
@@ -269,6 +271,7 @@ Schriider, K.-P., Sauer, J., Leslie, M., Catlow, C. R. A., &amp; Thomas, J. M. (
 Yoon, J. (2017). <em>The <span>Beneﬁts</span> and <span>Downsides</span> of <span>Methane</span></em>. 1.
 </div>
 </div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -406,13 +409,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Abstract</span>
+      <a href="./results.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Results</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./lit_review.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Literature Review</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./references.html" class="pagination-link">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
