@@ -1,3 +1,4 @@
+## Abstract {.unnumbered}
 Statistics Honors Senior Thesis
 \par Department of Statistics, Northwestern University
 
