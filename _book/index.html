@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Rhona Zhang">
-<meta name="dcterms.date" content="2022-11-21">
+<meta name="author" content="Rhona X. Zhang">
+<meta name="dcterms.date" content="2022-12-07">
 
-<title>Honors Thesis</title>
+<title>Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -91,7 +91,7 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Honors Thesis</h1>
+      <h1 class="quarto-secondary-nav-title">Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -104,18 +104,18 @@ div.csl-indent {
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Honors Thesis</a> 
+      <a href="./">Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN</a> 
         <div class="sidebar-tools-main">
     <a href="" title="Download" id="sidebar-tool-dropdown-0" class="sidebar-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-download"></i></a>
     <ul class="dropdown-menu" aria-labelledby="sidebar-tool-dropdown-0">
         <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="./Honors-Thesis.pdf">
+          <a class="dropdown-item sidebar-tools-main-item" href="./Conversion-Algorithm-for-3D-Visualization-of-Material-Grids-of-Zeolite-Structures-from-ZeoGAN.pdf">
             <i class="bi bi-bi-file-pdf pe-1"></i>
           Download PDF
           </a>
         </li>
         <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="./Honors-Thesis.epub">
+          <a class="dropdown-item sidebar-tools-main-item" href="./Conversion-Algorithm-for-3D-Visualization-of-Material-Grids-of-Zeolite-Structures-from-ZeoGAN.epub">
             <i class="bi bi-bi-journal pe-1"></i>
           Download ePub
           </a>
@@ -179,6 +179,11 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./nxt_steps.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Next Steps</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
   </div>
 </li>
@@ -200,7 +205,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Honors Thesis</h1>
+<h1 class="title d-none d-lg-block">Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN</h1>
 </div>
 
 
@@ -210,14 +215,14 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Rhona Zhang </p>
+             <p>Rhona X. Zhang </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2022-11-21</p>
+      <p class="date">2022-12-07</p>
     </div>
   </div>
   
@@ -227,21 +232,34 @@ div.csl-indent {
 
 </header>
 
-<section id="abstract" class="level1 unnumbered">
-<h1 class="unnumbered">Abstract</h1>
-<p>The general idea of this iterative process is to train ZeoGAN to produce crys- talline porous structures with low energies from the energy values obtained from HydraGNN. The input configuration for HydraGNN is in Cartesian coordinates format, while the output of ZeoGAN is the crystal lattice infor- mation of a materials’ grid, specially the probabilities an atom exists at every coordinate in the unit cell. Thus, in order to integrate the HydraGNN as a function within ZeoGAN and form this iterative process, the output of ZeoGAN must be converted into this Cartesian format. My primary assign- ment was to develop an algorithm which can be implemented in ZeoGAN to accurately do this conversion and will be used to train HydraGNN. I am also working on creating visualizations of the 3D molecular structures to confirm and assess the accuracy of the material grids of the structures generated from ZeoGAN, which is difficult to do with only the given data.</p>
-<p>Expanding and combining the efforts of two recently developed algorithms</p>
+Statistics Honors Senior Thesis
+<p>Department of Statistics, Northwestern University</p>
+First Reader: <a href="https://statistics.northwestern.edu/people/faculty/arend-m-kuyper.html">Dr.&nbsp;Arend Kuyper</a>
+<p>Second Reader: <a href="https://www.ornl.gov/staff-profile/stephan-irle">Dr.&nbsp;Stephan Irle</a></p>
+<div id="fig-rho" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="rho.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: <strong>Zeolite Structure of RHO</strong>, powered by OVITO.</figcaption><p></p>
+</figure>
+</div>
+<p>This research is conducted in collaboration with the AI Initiative in the Department of Computational Chemistry and Nanomaterials Sciences at Oak Ridge National Laboratory.</p>
+<section id="abstract" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="abstract">Abstract</h2>
+<p>[add later on]</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography" style="display: none">
-<div id="ref-noauthor_notitle_nodate" class="csl-entry" role="doc-biblioentry">
-(n.d.).
-</div>
 <div id="ref-blanchard_automating_2022" class="csl-entry" role="doc-biblioentry">
 Blanchard, A. E., Shekar, M. C., Gao, S., Gounley, J., Lyngaas, I., Glaser, J., &amp; Bhowmik, D. (2022). Automating <span>Genetic</span> <span>Algorithm</span> <span>Mutations</span> for <span>Molecules</span> <span>Using</span> a <span>Masked</span> <span>Language</span> <span>Model</span>. <em>IEEE Transactions on Evolutionary Computation</em>, <em>26</em>(4), 793–799. <a href="https://doi.org/10.1109/TEVC.2022.3144045">https://doi.org/10.1109/TEVC.2022.3144045</a>
 </div>
+<div id="ref-chandler_dirt-cheap_2022" class="csl-entry" role="doc-biblioentry">
+Chandler, D. L. (2022). <em>A dirt-cheap solution? <span>Common</span> clay materials may help curb methane emissions</em>. 1.
+</div>
 <div id="ref-fuhr_deep_2022" class="csl-entry" role="doc-biblioentry">
 Fuhr, A. S., &amp; Sumpter, B. G. (2022). Deep <span>Generative</span> <span>Models</span> for <span>Materials</span> <span>Discovery</span> and <span>Machine</span> <span>Learning</span>-<span>Accelerated</span> <span>Innovation</span>. <em>Frontiers in Materials</em>, <em>9</em>, 865270. <a href="https://doi.org/10.3389/fmats.2022.865270">https://doi.org/10.3389/fmats.2022.865270</a>
+</div>
+<div id="ref-jordan_stanford_2019" class="csl-entry" role="doc-biblioentry">
+Jordan, R. (2019). <em>Stanford researchers outline vision for profitable climate change solution</em>. 1.
 </div>
 <div id="ref-jordan_removing_2021" class="csl-entry" role="doc-biblioentry">
 Jordan, R. (2021). <em>Removing methane from the atmosphere</em>. 1.
@@ -269,9 +287,6 @@ Lee, S.-Y., &amp; Holder, G. D. (2001). Methane hydrates potential as a future e
 </div>
 <div id="ref-lupo_pasini_multi-task_2022" class="csl-entry" role="doc-biblioentry">
 Lupo Pasini, M., Zhang, P., Temple Reeve, S., &amp; Youl Choi, J. (2022). Multi-task graph neural networks for simultaneous prediction of global and atomic properties in ferromagnetic systems <span class="math inline">\(^{\textrm{*}}\)</span>. <em>Machine Learning: Science and Technology</em>, <em>3</em>(2), 025007. <a href="https://doi.org/10.1088/2632-2153/ac6a51">https://doi.org/10.1088/2632-2153/ac6a51</a>
-</div>
-<div id="ref-marcelo_machado_tropicalia_nodate" class="csl-entry" role="doc-biblioentry">
-Marcelo Machado. (n.d.). <em>Tropicalia</em>.
 </div>
 <div id="ref-schriider_bridging_1992" class="csl-entry" role="doc-biblioentry">
 Schriider, K.-P., Sauer, J., Leslie, M., Catlow, C. R. A., &amp; Thomas, J. M. (1992). Bridging hydroxyl groups in zeolitic catalysts: A computer simulation of their structure, vibrational properties and acidity in protonated faujasites (<span>H</span>-<span>Y</span> zeolites). <em>CHEMICAL PHYSICS LETTERS</em>, <em>188</em>(3), 6.

@@ -2,8 +2,9 @@ project:
   type: book
 
 book:
-  title: "Honors Thesis"
-  author: "Rhona Zhang"
+  title: "Conversion Algorithm for 3D Visualization of Material Grids of Zeolite Structures from ZeoGAN"
+  author: 
+    name: "Rhona X. Zhang"
   date: today
   date-format: iso
   downloads: [pdf, epub]
@@ -14,6 +15,7 @@ book:
     - lit_review.qmd
     - methods.qmd
     - results.qmd
+    - nxt_steps.qmd
     - references.qmd
 
 nocite: |

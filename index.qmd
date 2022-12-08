@@ -1,18 +1,13 @@
-# Abstract {.unnumbered}
+Statistics Honors Senior Thesis
+\par Department of Statistics, Northwestern University
 
+First Reader: [Dr. Arend Kuyper](https://statistics.northwestern.edu/people/faculty/arend-m-kuyper.html)
+\par Second Reader: [Dr. Stephan Irle](https://www.ornl.gov/staff-profile/stephan-irle)
 
+![**Zeolite Structure of RHO**, powered by OVITO.](rho.png){#fig-rho}
 
-The general idea of this iterative process is to train ZeoGAN to produce crys-
-talline porous structures with low energies from the energy values obtained
-from HydraGNN. The input configuration for HydraGNN is in Cartesian
-coordinates format, while the output of ZeoGAN is the crystal lattice infor-
-mation of a materials' grid, specially the probabilities an atom exists at
-every coordinate in the unit cell. Thus, in order to integrate the HydraGNN
-as a function within ZeoGAN and form this iterative process, the output of ZeoGAN must be converted into this Cartesian format. My primary assign-
-ment was to develop an algorithm which can be implemented in ZeoGAN to
-accurately do this conversion and will be used to train HydraGNN. I am also
-working on creating visualizations of the 3D molecular structures to confirm
-and assess the accuracy of the material grids of the structures generated from
-ZeoGAN, which is difficult to do with only the given data.
+This research is conducted in collaboration with the AI Initiative in the Department of Computational Chemistry and Nanomaterials Sciences at Oak Ridge National Laboratory. 
 
-Expanding and combining the efforts of two recently developed algorithms 
+## Abstract {.unnumbered}
+
+[add later on]
